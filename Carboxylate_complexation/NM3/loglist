@@ -1,4 +1,7 @@
  NM3.M062X.opt
- NM3_anion.M062X.opt
- NM3_anion.M062X.SMD.h2o.opt
+ NM3_propanoate.M062X_6-31pGd_opt_Pentadecane
+ NM3.M062X.SMD.pentadecane.opt
+ NM3_propanoate.M062X_6-31pGd_opt
+ NM3_propanoate.M062X_6-31pGd_opt_water
  NM3.M062X.SMD.h2o.opt
+ NM3_propanoate.M062X_6-31pGd_bsse
