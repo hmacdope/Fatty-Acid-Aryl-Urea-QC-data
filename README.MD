@@ -1,5 +1,5 @@
 SI FOR 
 
-Anticancer Activity of aryl-urea uncouplers is the result of mitochondrial uncoupling mediated by a fatty acid transport mechanism
+Rawling, T., MacDermott-Opeskin, H., Roseblade, A., Pazderka, C., Clarke, C., Bourget, K., … Murray, M. (2020). Aryl urea substituted fatty acids: a new class of protonophoric mitochondrial uncoupler that utilises a synthetic anion transporter. Chemical Science, 11(47), 12677–12685. https://doi.org/10.1039/D0SC02777D
 
 Primarily Gaussian log files, archive entries and .txt SI documents
